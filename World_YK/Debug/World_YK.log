@@ -1,0 +1,21 @@
+﻿  Antylopa.cpp
+  Barszcz_Sosnowskiego.cpp
+  Cyberowca.cpp
+  Czlowiek.cpp
+  Guarana.cpp
+  Info.cpp
+  Lis.cpp
+  Mlecz.cpp
+  Organizmy.cpp
+  Owca.cpp
+  Roslina.cpp
+  Swiat.cpp
+c:\users\yuriykis\source\repos\world_yk\world_yk\swiat.cpp(81): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Trawa.cpp
+  Wilcze_jagody.cpp
+  Wilk.cpp
+  World_YK.cpp
+  Zolw.cpp
+  Zwierze.cpp
+  Generating Code...
+  World_YK.vcxproj -> C:\Users\YuriyKis\source\repos\World_YK\Debug\World_YK.exe
